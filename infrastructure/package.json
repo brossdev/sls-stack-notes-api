@@ -12,8 +12,9 @@
     "@aws-cdk/assert": "1.61.0"
   },
   "dependencies": {
+    "@aws-cdk/aws-dynamodb": "1.61.0",
+    "@aws-cdk/core": "1.61.0",
     "@serverless-stack/cli": "0.4.1",
-    "@serverless-stack/resources": "0.4.1",
-    "@aws-cdk/core": "1.61.0"
+    "@serverless-stack/resources": "0.4.1"
   }
 }

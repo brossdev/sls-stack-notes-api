@@ -1,7 +1,6 @@
-import MyStack from "./MyStack";
+import DynamoDBStack from "./DynamoDBStack";
 
+// Add stacks
 export default function main(app) {
-  new MyStack(app, "my-stack");
-
-  // Add more stacks
+  new DynamoDBStack(app, "dynamodb");
 }
