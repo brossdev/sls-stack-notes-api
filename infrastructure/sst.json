@@ -1,5 +1,5 @@
 {
-  "name": "infrastructure",
+  "name": "notes-infra",
   "type": "@serverless-stack/resources",
   "stage": "dev",
   "region": "eu-west-1"
